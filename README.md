@@ -5,4 +5,4 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwisaek&layout=compact)](https://github.com/Hwisaek/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&layout=compact)](https://github.com/Hwisaek/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek)](https://github.com/Hwisaek/github-readme-stats)
