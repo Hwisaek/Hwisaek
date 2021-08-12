@@ -31,8 +31,4 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwisaek)](https://github.com/Hwisaek/)
 
 
-<figure><embed src="https://wakatime.com/share/@32308d8b-d563-4b42-a670-3d40dad9ff6e/fe23674b-398a-4486-be2b-d76514e6b5b0.svg"></embed></figure>
-
-![이미지](https://wakatime.com/share/@32308d8b-d563-4b42-a670-3d40dad9ff6e/fe23674b-398a-4486-be2b-d76514e6b5b0.svg "마크다운")
-
-<img src="https://wakatime.com/share/@32308d8b-d563-4b42-a670-3d40dad9ff6e/fe23674b-398a-4486-be2b-d76514e6b5b0.svg"/>
+![이미지](https://wakatime.com/share/@32308d8b-d563-4b42-a670-3d40dad9ff6e/14408372-2216-4eda-aeb1-22c324f4d613.svg "마크다운")
