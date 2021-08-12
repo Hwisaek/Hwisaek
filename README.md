@@ -29,3 +29,10 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwisaek)](https://github.com/Hwisaek/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+      
+
+       WakaTime Dev Metrics
