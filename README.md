@@ -29,6 +29,3 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwisaek)](https://github.com/Hwisaek/)
-
-
-![이미지](https://wakatime.com/share/@32308d8b-d563-4b42-a670-3d40dad9ff6e/14408372-2216-4eda-aeb1-22c324f4d613.svg "마크다운")
