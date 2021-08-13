@@ -28,7 +28,7 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwisaek)](https://github.com/Hwisaek/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical)
 
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
