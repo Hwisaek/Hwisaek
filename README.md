@@ -29,6 +29,6 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical&include_all_commits=true)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
