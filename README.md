@@ -34,6 +34,6 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwisaek&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwisaek&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
