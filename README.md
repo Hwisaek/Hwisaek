@@ -12,7 +12,7 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant+Design&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
