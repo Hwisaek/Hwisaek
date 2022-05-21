@@ -1,15 +1,15 @@
 ## Hwisaek's web
 http://211.34.36.139/
 
-### LinkedIn Profile
+## LinkedIn Profile
 https://www.linkedin.com/in/hwisaek/
 
-### Notion portfolio
+## Notion portfolio
 https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwisaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Tech Stack
+## Tech Stack
 
 <!-- 로고 사이트: https://shields.io/ https://simpleicons.org/ -->
 
@@ -39,7 +39,7 @@ https://hwisaek.notion.site/hwisaek/8c2177be94f24e7b9a7bd474e53dda3a
  -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-### GitHub Stats
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwisaek&show_icons=true&theme=radical&include_all_commits=true)
 
