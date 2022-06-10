@@ -1,5 +1,5 @@
 ## Hwisaek's web
-http://go.hwisaek.kro.kr/articles
+http://go.hwisaek.kro.kr
 
 ## LinkedIn Profile
 https://www.linkedin.com/in/hwisaek/
