@@ -1,6 +1,6 @@
 ## Hwisaek's web
-http://go.hwisaek.kro.kr  
-https://github.com/HWISECHO
+Web: http://go.hwisaek.kro.kr  
+GitHub: https://github.com/HWISECHO
 
 ## LinkedIn Profile
 https://www.linkedin.com/in/hwisaek/
