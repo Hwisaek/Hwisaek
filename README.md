@@ -1,7 +1,3 @@
-## Hwisaek's web
-Web: http://go.hwisaek.kro.kr/  
-GitHub: https://github.com/GOVUEJS
-
 ## LinkedIn Profile
 https://www.linkedin.com/in/hwisaek/
 
