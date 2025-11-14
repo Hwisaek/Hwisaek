@@ -1,11 +1,5 @@
 # 👋 안녕하세요, Hwisaek입니다!
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwisaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -19,6 +13,19 @@
 
 ### DevOps & Cloud
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+
+## 🚀 Projects
+
+### Process Scheduling Simulator
+운영체제의 다양한 프로세스 스케줄링 알고리즘을 시각적으로 시뮬레이션할 수 있는 웹 애플리케이션입니다.
+
+🔗 **Live Demo**: [process-scheduling-simulator.hwisaek.com](https://process-scheduling-simulator.hwisaek.com/?lang=ko)
+
+**주요 기능:**
+- FCFS, SJF, Priority, Round Robin 등 다양한 스케줄링 알고리즘 지원
+- 실시간 시각화 및 애니메이션
+- 다국어 지원 (한국어/영어)
+- Gantt 차트를 통한 프로세스 실행 흐름 시각화
 
 ## 📊 GitHub Stats
 
