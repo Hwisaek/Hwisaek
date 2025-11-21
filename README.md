@@ -9,11 +9,11 @@
 
 🔗 **Live Demo**: [process-scheduling-simulator.hwisaek.com](https://process-scheduling-simulator.hwisaek.com/?lang=ko)
 
-**주요 기능:**
-- FCFS, SJF, Priority, Round Robin 등 다양한 스케줄링 알고리즘 지원
-- 실시간 시각화 및 애니메이션
-- 다국어 지원 (한국어/영어)
-- Gantt 차트를 통한 프로세스 실행 흐름 시각화
+
+### URL Shortener
+긴 URL을 짧고 간편하게 만들어주는 URL 단축 서비스입니다.
+
+🔗 **Live Demo**: [url-shortener.hwisaek.com](https://url-shortener.hwisaek.com/)
 
 ## 📫 Connect with Me
 - LinkedIn: [www.linkedin.com/in/hwisaek](https://www.linkedin.com/in/hwisaek)
